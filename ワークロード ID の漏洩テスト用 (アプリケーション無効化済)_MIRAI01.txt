@@ -1,0 +1,4 @@
+"AadClientId": "cc5852ef-c6b5-4eda-b691-e2b825df2b19",
+"AadSecret": "VLI8Q~DdGFfE5piBxj_VolC5gzWvueNo8zwb3aQI",
+"AadTenantDomain": "future6adgetlab.com",
+"AadTenantId": "bebd1e65-bb80-4995-a850-50ae7dbe06bf",
